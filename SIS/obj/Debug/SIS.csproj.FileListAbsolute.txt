@@ -1,0 +1,6 @@
+C:\Users\denix\source\repos\SIS\SIS\bin\Debug\SIS.dll
+C:\Users\denix\source\repos\SIS\SIS\bin\Debug\SIS.pdb
+C:\Users\denix\source\repos\SIS\SIS\obj\Debug\SIS.csproj.AssemblyReference.cache
+C:\Users\denix\source\repos\SIS\SIS\obj\Debug\SIS.csproj.CoreCompileInputs.cache
+C:\Users\denix\source\repos\SIS\SIS\obj\Debug\SIS.dll
+C:\Users\denix\source\repos\SIS\SIS\obj\Debug\SIS.pdb

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SISTest/1.0.0": {
+        "dependencies": {
+          "SIS": "1.0.0"
+        },
+        "runtime": {
+          "SISTest.dll": {}
+        }
+      },
+      "SIS/1.0.0": {
+        "runtime": {
+          "SIS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SISTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SIS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

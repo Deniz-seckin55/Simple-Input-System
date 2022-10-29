@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIS", "SIS\SIS.csproj", "{307998E9-3CD9-40E2-A32F-E4208CFF4694}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SISTest", "SISTest\SISTest.csproj", "{E8617C8F-FB49-4824-988E-73A9B3536F6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{307998E9-3CD9-40E2-A32F-E4208CFF4694}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307998E9-3CD9-40E2-A32F-E4208CFF4694}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307998E9-3CD9-40E2-A32F-E4208CFF4694}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307998E9-3CD9-40E2-A32F-E4208CFF4694}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8617C8F-FB49-4824-988E-73A9B3536F6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8617C8F-FB49-4824-988E-73A9B3536F6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8617C8F-FB49-4824-988E-73A9B3536F6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8617C8F-FB49-4824-988E-73A9B3536F6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46424A53-2A83-439D-AA71-048D854D7B68}
+	EndGlobalSection
+EndGlobal
